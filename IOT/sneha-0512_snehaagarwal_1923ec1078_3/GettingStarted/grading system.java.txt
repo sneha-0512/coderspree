@@ -30,7 +30,6 @@ import java.util.*;
           System.out.println("below par");
       }
       
-      
-  
+     
    }
   }
